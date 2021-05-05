@@ -30,9 +30,9 @@ jobs:
 
       - run:
           name: start dev
-          command: npm run start
+          command: npm run serve
           background: true
 
       - run:
           name: emtrey
-          command: npx emtrey --port=3000
+          command: npx ./emtrey-0.7.0.tgz --port=3000
