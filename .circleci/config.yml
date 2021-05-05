@@ -35,4 +35,4 @@ jobs:
 
       - run:
           name: emtrey
-          command: npx ./emtrey-0.7.0.tgz --port=3000
+          command: npx ./emtrey-0.7.0.tgz --port=9000
