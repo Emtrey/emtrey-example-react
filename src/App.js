@@ -7,7 +7,7 @@ class App extends React.Component {
       <div className="container">
         <nav className="main">
           <ul>
-            <li><Link to="/">Home 0.7</Link></li>
+            <li><Link to="/">Home 0.7.</Link></li>
             <li><Link to="/projects">Projects</Link></li>
             <li><Link to="/about">About</Link></li>
           </ul>
