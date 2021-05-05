@@ -1,0 +1,51 @@
+[
+  {
+    "id": "chat",
+    "sort": 1,
+    "name": "Live Chat",
+    "heading": "Talk with customers in real-time.",
+    "description": "<p>StoreKick allows you to send communications in real time to any live visitor on your website. You can provide a tailored, personal shopping experience at any moment in the users session, regardless of which page they are currently viewing. You may also create message templates which serve as placeholders for commonly used greetings or questions.</p><p>Live chatting is always available, even when you have Engagements defined for products. If you'd like to not be disturbed you may turn it off at any time, which will provide a general information capture form to users in its place.</p>"
+  },
+  {
+    "id": "engagements",
+    "sort": 0,
+    "name": "Powerful Engagements",
+    "heading": "Engage and collect feedback",
+    "description": "<p>Engagements are pre-defined templates which have many different attributes designed to encourage a user to share information, or buy a specific product. Engagements are only viewable on pages you define as Rules, and these Rules can be site-wide, or restricted to individual products.</p><p>There are many Engagements included out of the box with StoreKick and you may customize each for your liking. A few of our favorite default Engagements: Collect email addresses, Pin product on Pinterest, Emoji-based product polling, Share a video of your product, Display frequently asked questions about your product, Leave a product review.</p><p>We are always working on more ways to engage your existing and potential customers and plan to release new Engagements quarterly.</p>"
+  },
+  {
+    "id": "store",
+    "sort": 99,
+    "name": "Store Integrations",
+    "heading": "Works with your store",
+    "description": "<p>We currently support online stores built using the Shopify or WooCommerce web platforms, and custom-built ecommerce websites. We are working to expand our support for other ecommerce platform providers.</p><p>Don't worry too much about the integrations, we will happily help you through the process and get you up and running within a 24 hours.</p>"
+  },
+  {
+    "id": "social",
+    "sort": 2,
+    "name": "Social Sharing",
+    "heading": "Better social sharing",
+    "description": "<p>Our social-focused Engagements can optionally offer incentives for your customers to: Like a product, Tweet a product, Pin a product, Review a product, and more. Although powerful for product pages, most of the Engagements can be used on any page of your store.</p><p>With each Capture you will see which product or URL was sent to be shared.</p>"
+  },
+  {
+    "id": "email",
+    "sort": 4,
+    "name": "Collect Emails",
+    "heading": "Grow your mailing list",
+    "description": "<p>Use our collect email Engagements to provide an on-page, sleek way for visitors to join your newsletter and subscribe to product updates. You can also export email address to MailChimp with support for other email management platforms in the works.</p>"
+  },
+  {
+    "id": "qa",
+    "sort": 3,
+    "name": "Product Questions and Answers",
+    "heading": "Product questions and answers",
+    "description": "<p>Use our Questions and Answers Engagement to provide a clickable list of frequently asked questions specific to each product in your collection. You may also utlize a general Questions and Answers Engagement to display the same for your business in general, which may be setup for any page on your store.</p><p>Certain accounts unlock the ability for a Questions and Answers section with autocomplete search, accessed via a dropdown menu in the StoreKick widget.</p>"
+  },
+  {
+    "id": "themes",
+    "sort": 5,
+    "name": "Theme Support",
+    "heading": "Customized Themes and Profiles",
+    "description": "<p>Configure your StoreKick widget to match your stores look and feel with primary and secondary colors. All profiles include the ability to customize your user name, title, and an avatar image.</p><p>Never worry about integrating with other static displays on your store, as you can customize the exact position of your widget as well. StoreKick can be displayed alongside many other website plugins.</p>"
+  }
+]

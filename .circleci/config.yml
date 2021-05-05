@@ -1,0 +1,38 @@
+version: 2.1
+
+orbs:
+  browser-tools: circleci/browser-tools@1.1.3
+
+jobs:
+  build:
+    docker:
+      - image: cimg/node:15.14.0
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      - browser-tools/install-chrome
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - v1-dependencies-
+
+      - run: npm install
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+
+      - run:
+          name: start dev
+          command: npx static-server
+          background: true
+
+      - run:
+          name: emtrey
+          command: npx ./emtrey-0.7.0.tgz --port=9080

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Basic",
+    "tag": "Powerful base features",
+    "sessions": "50",
+    "price": ["39", "49"],
+    "features": ["0", "1", "2"]
+  },
+  {
+    "name": "Premium",
+    "tag": "Everything for small to mid sized stores",
+    "sessions": "250",
+    "price": ["99", "119"],
+    "features": ["0", "1", "2", "3", "4", "5"]
+  },
+  {
+    "name": "Pro",
+    "tag": "Best for custom stores with high volume",
+    "sessions": "500",
+    "price": ["399", "410"],
+    "features": ["0", "1", "2", "3", "4", "5", "6", "7"]
+  }
+]
