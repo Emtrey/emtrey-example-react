@@ -30,7 +30,7 @@ jobs:
 
       - run:
           name: start dev
-          command: node devServer.js
+          command: npm run start
           background: true
 
       - run:
