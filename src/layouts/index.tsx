@@ -76,7 +76,7 @@ const IndexLayout: React.FunctionComponent<{
           links={data.allNavigationJson}
         />
         <LayoutMain>{children}</LayoutMain>
-        <Footer year={data.site.siteMetadata.year} />
+        {/* <Footer year={data.site.siteMetadata.year} /> */}
       </LayoutRoot>
     )}
   />
