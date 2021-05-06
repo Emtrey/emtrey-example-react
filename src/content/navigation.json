@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Overview",
+    "href": "/"
+  },
+  {
+    "title": "Features",
+    "href": "/features"
+  },
+  {
+    "title": "Pricing",
+    "href": "/pricing"
+  },
+  {
+    "title": "Support",
+    "href": "/support"
+  },
+  {
+    "title": "Login",
+    "href": "http://portal.storekick.io"
+  }
+]

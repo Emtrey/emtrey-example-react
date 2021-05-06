@@ -1,0 +1,39 @@
+[
+  {
+    "id": "0",
+    "name": "Collect Email Addresses"
+  },
+  {
+    "id": "1",
+    "name": "Connect With Visitors"
+  },
+  {
+    "id": "2",
+    "name": "Live Chat"
+  },
+  {
+    "id": "3",
+    "name": "Accounts For Your Team",
+    "help": "Add additional accounts for handling live chat and more."
+  },
+  {
+    "id": "4",
+    "name": "Exclusive Engagements",
+    "help": "More powerful Engagements to further enhance your store. Also includes experimental Engagements."
+  },
+  {
+    "id": "5",
+    "name": "Upgraded Support and Help",
+    "help": "Premium clients have higher priority support."
+  },
+  {
+    "id": "6",
+    "name": "Fully Customizable Widget",
+    "help": "Change the colors, position, branding of how the widget appears on your store."
+  },
+  {
+    "id": "7",
+    "name": "Advanced Message Handling",
+    "help": "Configure updates to be sent to third party platforms like Slack, or send them via text."
+  }
+]
