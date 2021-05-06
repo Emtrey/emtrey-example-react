@@ -119,7 +119,7 @@ class PricingPage extends React.PureComponent<PricingPageProps, {}> {
                 <StyledPlan key={plan.node.name}>
                   <PlanHead>
                     <h5>{plan.node.name}</h5>
-                    <p>{plan.node.sessions},000 sessions / mo.</p>
+                    <p>{plan.node.sessions},000 hola sessions / mo.</p>
                   </PlanHead>
 
                   <Price>
