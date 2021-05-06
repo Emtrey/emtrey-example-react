@@ -1,15 +1,14 @@
 module.exports = {
-  login: {
-    url: 'login',
-    user: 'max@horizontwolabs.com',
-    password: 'password',
-  },
+  isStaticSiteProject: true,
   routes: {
-    '*': {
+    '/': {
       auth: true,
     },
-    '/': {},
-    '/components.html': {},
-    '/project.html': {}
+    '/project.html': {
+      id: 2,
+    },
+    '/components.html': {
+      id: 22,
+    },
   },
 };
