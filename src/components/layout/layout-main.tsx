@@ -11,7 +11,7 @@ const StyledLayoutMain = styled.main`
 const LayoutMain: React.FunctionComponent<{
   className?: string;
 }> = ({ children, className }) => (
-  <StyledLayoutMain className={className}>{children}</StyledLayoutMain>
+  <StyledLayoutMain className={className}>{children} Hola</StyledLayoutMain>
 );
 
 export default LayoutMain;
