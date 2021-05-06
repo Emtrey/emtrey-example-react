@@ -226,7 +226,7 @@ class SignupPage extends React.PureComponent<SignupPageProps, {}> {
             </form>
 
             <div style={{ textAlign: 'center', fontSize: '1rem' }}>
-              Have an account?
+              Have an account? Click below:
               <a
                 href="https://portal.storekick.io"
                 style={{ paddingLeft: '6px' }}
