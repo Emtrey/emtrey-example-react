@@ -76,7 +76,7 @@ const HeroCtas = styled.div`
 const HomeHero: React.FunctionComponent = () => (
   <Hero>
     <HeroText>
-      <h2>Take your ecommerce store to the next level.</h2>
+      <h2>Take your e-commerce store to the next level.</h2>
       <p>
         StoreKick makes it easy to grow your ecommerce store and provide a
         unique shopping experience for all of your products.
