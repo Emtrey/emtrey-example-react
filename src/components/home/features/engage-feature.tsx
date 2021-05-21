@@ -41,7 +41,7 @@ const EmojiBubble = styled(ChatBubble)`
 
 export const EngageFeature: React.FunctionComponent = () => (
   <div>
-    <ChatBubble>How do you like these kicks?</ChatBubble>
+    {/* <ChatBubble>How do you like these kicks?</ChatBubble> */}
     <EmojiBubble>
       <span>😐</span>
       <span>😐</span>
